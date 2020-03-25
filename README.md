@@ -21,6 +21,9 @@ data structure
  학번, 이름, 번호 배열로 구성된 구조체 생성
 	구조체 포인터 배열 생성해서 접근
 	데이터 양이 방대하고 모든 함수에서 접근 가능한 동적 할당
+<div>
+  <img width="500" src="">
+ </div>
 2. 시간 측정 #include <time.h>
  start = clock(); //시간 측정 시작
 
@@ -44,3 +47,10 @@ duration = (double)(finish - start) / CLOCKS_PER_SEC; //시간 계산
  분할 함수: int partition(Element *arr[], int left, int right, int criteria)
  비교 기준이 문자인 이름이면 피봇을 문자로 선언 후 비교!!
 
+
+결과 화면>
+<div>
+  <img width="500" src="">
+  <img width="500" src="">
+ </div>
+  
