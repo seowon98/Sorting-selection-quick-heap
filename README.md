@@ -22,7 +22,7 @@ data structure
 	구조체 포인터 배열 생성해서 접근
 	데이터 양이 방대하고 모든 함수에서 접근 가능한 동적 할당
 <div>
-  <img width="500" src="">
+  <img width="500" src="https://user-images.githubusercontent.com/60779441/77488783-8a620800-6e79-11ea-97a9-95d2941aee84.png">
  </div>
 2. 시간 측정 #include <time.h>
  start = clock(); //시간 측정 시작
@@ -50,7 +50,7 @@ duration = (double)(finish - start) / CLOCKS_PER_SEC; //시간 계산
 
 결과 화면>
 <div>
-  <img width="500" src="">
-  <img width="500" src="">
+  <img width="500" src="https://user-images.githubusercontent.com/60779441/77488693-4cfd7a80-6e79-11ea-9e24-b6bc21175ecc.png">
+  <img width="500" src="https://user-images.githubusercontent.com/60779441/77488698-50910180-6e79-11ea-88cf-4a1fa068082b.png">
  </div>
-  
+ 
